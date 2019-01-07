@@ -1,11 +1,11 @@
 # keras_nlp_utils
-自然语言处理Keras工具包
+自然语言处理工具包
 
 ## word2vec
 
 快捷的使用词嵌入层的Python包，封装了几个keras embedding层的几个主要功能：
 
-###训练词向量
+### 训练词向量
 
 * 在函数中使用词向量训练工具
 
