@@ -1,4 +1,4 @@
-# keras_nlp_utils
+# nlp_utils
 自然语言处理工具包
 
 ## word2vec
